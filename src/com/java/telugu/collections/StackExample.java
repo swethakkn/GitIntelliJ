@@ -9,6 +9,7 @@ import java.util.Set;
 import java.util.Stack;
 
 public class StackExample {
+
 	List<Integer> stack1 = new Stack<>();
 	List<Integer> list1 = new LinkedList<>();
 	Set<Integer> set1 = new LinkedHashSet<>();

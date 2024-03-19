@@ -3,6 +3,8 @@ package com.java.telugu.userinput;
 public class StaticNonstatic {
 	static{
 		System.out.println("static block");
+		System.out.println("static block");
+
 	}
 	{
 		System.out.println("non-static block");

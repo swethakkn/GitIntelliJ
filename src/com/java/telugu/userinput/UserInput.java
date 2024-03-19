@@ -9,6 +9,7 @@ public class UserInput {
 		System.out.println("What is your name?");
 		String name = scanner.nextLine();
 		System.out.printf("Hey %s , How can i help you?",name);
+		System.out.printf("Hey %s , How can i help you?",name);
 		scanner.close();
 
 	}
